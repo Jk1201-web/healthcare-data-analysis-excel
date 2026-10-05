@@ -1,0 +1,27 @@
+Row Labels,Count of Petients Name,,Row Labels,Count of Petients Name,,Count of Petients Name,Column Labels,,
+Female,27726,,A-,6969,,Row Labels,Female,Male,Grand Total
+Male,27774,,A+,6956,,A-,3449,3520,6969
+Grand Total,55500,,AB-,6945,,A+,3564,3392,6956
+,,,AB+,6947,,AB-,3461,3484,6945
+,,,B-,6944,,AB+,3438,3509,6947
+,,,B+,6945,,B-,3461,3483,6944
+,,,O-,6877,,B+,3377,3568,6945
+,,,O+,6917,,O-,3512,3365,6877
+,,,Grand Total,55500,,O+,3464,3453,6917
+,,,,,,Grand Total,27726,27774,55500
+Row Labels,Count of Petients Name,,,,,,,,
+Aetna,10913,,Count of Petients Name,Column Labels,,,,,
+Blue Cross,11059,,Row Labels,Aspirin,Ibuprofen,Lipitor,Paracetamol,Penicillin,Grand Total
+Cigna,11249,,Arthritis,1918,1822,1825,1877,1866,9308
+Medicare,11154,,Asthma,1802,1827,1823,1888,1845,9185
+United Healthcare,11125,,Cancer,1786,1873,1922,1853,1793,9227
+Grand Total,55500,,Diabetes,1858,1861,1893,1811,1881,9304
+,,,Hypertension,1865,1893,1848,1849,1790,9245
+Row Labels,Count of Petients Name,,Obesity,1865,1851,1829,1793,1893,9231
+Arthritis,9308,,Grand Total,11094,11127,11140,11071,11068,55500
+Asthma,9185,,,,,,,,
+Cancer,9227,,,,,,,,
+Diabetes,9304,,,,,,,,
+Hypertension,9245,,,,,,,,
+Obesity,9231,,,,,,,,
+Grand Total,55500,,,,,,,,
